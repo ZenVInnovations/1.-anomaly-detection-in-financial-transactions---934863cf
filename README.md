@@ -74,7 +74,6 @@ Your dataset should include numeric columns like:
 
 - **Akash Jegli** ([@akashjegli](https://github.com/akashjegli))
 - **Maneesh Reddy A** ([@Extremis2099](https://github.com/Extremis2099))
-- **Gouri** ([@Gouri2504](https://github.com/Gouri2504))
 - **Mentor**: [@srihub24](https://github.com/srihub24)
 
 ## ✅ Status
