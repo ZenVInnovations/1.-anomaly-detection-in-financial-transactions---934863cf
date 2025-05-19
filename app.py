@@ -673,3 +673,4 @@ with tab3:
     anomalies = data[anomaly_scores == 1]
     print(f"Found {len(anomalies)} anomalies")
     """, language="python")
+    st.markdown("ADD csv files of your own")
